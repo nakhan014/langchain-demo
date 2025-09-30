@@ -56,7 +56,7 @@ if "memory" not in st.session_state:
 
 memory = st.session_state.memory
 
-st.title("🤖 My Chatbot")
+st.title("🤖 Chatbot")
 
 # Container to display chat messages
 chat_container = st.container()

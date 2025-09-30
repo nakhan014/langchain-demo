@@ -2,4 +2,3 @@ streamlit
 langchain
 python-dotenv
 groq
--e git+https://github.com/groq-ai/langchain-groq.git#egg=langchain_groq

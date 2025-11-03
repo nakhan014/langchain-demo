@@ -86,7 +86,7 @@ def process_input():
         memory.add_ai_message(response_text.content)
 
         # ✅ Save chat history after each exchange
-        save_history(memory)
+        #save_history(memory)
 
         # Clear input
         st.session_state.user_input = ""

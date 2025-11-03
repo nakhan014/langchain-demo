@@ -3,3 +3,6 @@ langchain
 python-dotenv
 groq
 langchain-groq
+pandas
+numpy
+requests
